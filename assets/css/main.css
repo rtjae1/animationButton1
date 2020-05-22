@@ -123,7 +123,7 @@ html {
 /* center for content */
 /* ~~~~~~~~~~~~~~ */
 .center {
-    border: solid black;
+    /* border: solid black; */
     position: absolute;
     width: calc(100vw - 90px);
     height: calc(100vh - 40px);
