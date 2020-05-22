@@ -13,10 +13,20 @@
   --tertiaryColor: #031138;
   --quaternary: #013c40; */
     /* autumn in vermont */
-    --primaryColor: #1e434c;
+    /* --primaryColor: #1e434c;
     --secondaryColor: #c99e10;
     --tertiaryColor: #9b4f0f;
-    --quaternary: #8d230f;
+    --quaternary: #8d230f; */
+    /* spalding basketball */
+    /* --primaryColor: #161616;
+    --secondaryColor: #E47041;
+    --tertiaryColor: #B54213;
+    --quaternary: #EF7F4D; */
+    /* basketball court */
+    --primaryColor: #184F7B;
+    --secondaryColor: #A1D9DA;
+    --tertiaryColor: #F6B042;
+    --quaternary: #F28D3C;
 }
 
 html {
